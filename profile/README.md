@@ -10,3 +10,5 @@ If you are enrolled in Elton University and already are invited to this organiza
 
 If you are enrolled but not invited yet, please contact a staff member, coach, or professor.
 
+Once you have access begin with the [Start-Here](https://github.com/Elton-University/Start-Here) repository — it will give you an overview of what is here and what order to do projects in.
+
