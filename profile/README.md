@@ -6,5 +6,4 @@ We use GitHub to organize and plan all our project-based courses in the Applied 
 
 [Visit the University's Website](https://www.elton.university) to learn more 📚📜🎓
 
-
-
+If you are enrolled in Elton University and already are invited to this organization, please begin by completing the [Setup Your Computer Tutorial](https://github.com/Elton-University/setup-your-computer)
