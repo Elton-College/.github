@@ -6,39 +6,7 @@ We use GitHub to organize and plan all our project-based courses in the Applied 
 
 [Visit the University's Website](https://www.elton.university) to learn more 📚📜🎓
 
-If you are enrolled in Elton University and already are invited to this organization, please begin by completing the [Setup Your Computer Tutorial](https://github.com/Elton-University/setup-your-computer). 
+If you are enrolled in Elton University and already are invited to this organization you will have access to the curriculum. 
 
 If you are enrolled but not invited yet, please contact a staff member, coach, or professor.
-
-Table of Contents:
-
-## Backend Web 
-
-### Node.js
-
-  1. Find That Gif 
-  2. Rotten Potatoes
-  3. Rotten Potatoes Part Deux
-  4. Party Planner
-  5. Party Planner Part Two: The Partying
-
-### Flask.py
-
-  1. Playlistify
-  2. 
-
-## Front End Web
-
-### HTML/CSS
-  1. 
-
-### JavaScript 
-
-### React
-  1. 
-
-## iOS Mobile
-
-
-## Data Science
 
